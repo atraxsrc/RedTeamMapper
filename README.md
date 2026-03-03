@@ -1,4 +1,4 @@
-# Red Team Mapper v1.0
+# Red Team Mapper v2.0
 
 [![GitHub Pages](https://github.com/atraxsrc/RedTeamMapper/actions/workflows/pages/pages-build-deployment/badge.svg)](https://atraxsrc.github.io/RedTeamMapper/)
 
