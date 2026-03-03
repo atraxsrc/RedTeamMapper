@@ -66,9 +66,9 @@ https://atraxsrc.github.io/RedTeamMapper/
   --teal: #73daca;
 }
 ```
-### Optional Enhancements You Can Add Later
 
-1. **Badges**:
-   ```markdown
+**Badges**:
+   
    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
    [![Tokyo Night Theme](https://img.shields.io/badge/theme-Tokyo%20Night-blueviolet)](https://github.com/enkia/tokyo-night-vscode-theme)
+   
