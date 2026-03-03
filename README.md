@@ -1,6 +1,7 @@
 # Red Team Mapper v2.0
 
-[![GitHub Pages](https://github.com/atraxsrc/RedTeamMapper/actions/workflows/pages/pages-build-deployment/badge.svg)](https://atraxsrc.github.io/RedTeamMapper/)
+[![GitHub Pages](https://github.com/atraxsrc/RedTeamMapper/actions/workflows/pages/pages-build-deployment/badge.svg)](https://atraxsrc.github.io/RedTeamMapper/)   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Tokyo Night Theme](https://img.shields.io/badge/theme-Tokyo%20Night-blueviolet)](https://github.com/enkia/tokyo-night-vscode-theme)
+   
 
 **Comprehensive visual reference & attack path mapper for red team, purple team, and adversary emulation operations.**
 
@@ -66,9 +67,3 @@ https://atraxsrc.github.io/RedTeamMapper/
   --teal: #73daca;
 }
 ```
-
-**Badges**:
-   
-   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-   [![Tokyo Night Theme](https://img.shields.io/badge/theme-Tokyo%20Night-blueviolet)](https://github.com/enkia/tokyo-night-vscode-theme)
-   
