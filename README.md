@@ -11,12 +11,17 @@ Initial Access → Execution → Persistence → Privilege Escalation → Defens
 
 Built as a static HTML/CSS site using the beautiful **Tokyo Night** color palette.
 
-Live version:  
+**Live version:**  
 https://atraxsrc.github.io/RedTeamMapper/
 
-## Features
+**Companion project:**  
+[Blue Team Mapper](https://atraxsrc.github.io/BlueTeamMapper/) — the defensive counterpart.
 
-- Clean, cyberpunk-inspired UI with Tokyo Night theme
+## Why This Exists
+Red vs Blue is most effective when both sides speak the same language.  
+This mapper gives red teamers, purple teamers, and adversary emulation operators a clean, visual blueprint of every major attack path — so defenders know exactly what to hunt for and how to stop it.
+
+## Features
 - Full MITRE ATT&CK-aligned attack lifecycle diagram (SVG)
 - End-to-end red team kill chains & TTP flows (phishing → ransomware → AD compromise → cloud attacks, etc.)
 - Detailed sections covering:
@@ -24,14 +29,15 @@ https://atraxsrc.github.io/RedTeamMapper/
   - Execution & living-off-the-land binaries (LOLBins)
   - Persistence mechanisms (scheduled tasks, registry, WMI)
   - Privilege escalation & credential access paths
-  - Defense evasion techniques (AMSI/ETW bypass, obfuscation)
+  - Defense evasion techniques (AMSI/ETW bypass, obfuscation, injection)
   - Discovery & reconnaissance patterns
-  - Lateral movement (PsExec, WMI, RDP, WinRM)
+  - Lateral movement (PsExec, WMI, RDP, WinRM, Kerberos)
   - Collection & exfiltration channels
   - Impact & ransomware behaviors
   - Cloud attack paths (token theft, IAM abuse, container breakout)
   - Tool arsenal & key red team signatures
-- Responsive design, monospace typography, semantic color highlighting
+- Responsive design with monospace typography and semantic color highlighting
+- 100% static — loads instantly, no JS, no tracking
 
 ## Screenshots
 
